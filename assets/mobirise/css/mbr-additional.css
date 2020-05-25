@@ -1,6 +1,34 @@
-#header2-0 H1 {
-  color: #fbfbfb;
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+
+
+
+
+#msg-box4-a .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: right;
 }
-#header2-0 P {
-  color: #fbfbfb;
+#msg-box4-a .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 48px;
+  text-align: right;
+}
+#msg-box4-i .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: right;
+}
+#msg-box4-i .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 36px;
+  text-align: right;
+}
+#msg-box4-h .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: left;
+}
+#msg-box4-h .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 48px;
+  text-align: left;
 }
