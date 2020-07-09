@@ -5,6 +5,10 @@
 
 
 
+
+
+
+
 #msg-box4-a .lead P {
   font-family: 'Playfair Display', sans-serif;
   text-align: left;
@@ -28,6 +32,24 @@
   text-align: left;
 }
 #msg-box4-h .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box4-k .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: left;
+}
+#msg-box4-k .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box4-n .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: left;
+}
+#msg-box4-n .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
   font-size: 30px;
   text-align: left;
