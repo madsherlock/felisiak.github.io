@@ -7,21 +7,21 @@
 
 #msg-box4-a .lead P {
   font-family: 'Playfair Display', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-a .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 48px;
-  text-align: right;
+  font-size: 30px;
+  text-align: left;
 }
 #msg-box4-i .lead P {
   font-family: 'Playfair Display', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-i .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 36px;
-  text-align: right;
+  font-size: 30px;
+  text-align: left;
 }
 #msg-box4-h .lead P {
   font-family: 'Playfair Display', sans-serif;
@@ -29,6 +29,6 @@
 }
 #msg-box4-h .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 48px;
+  font-size: 30px;
   text-align: left;
 }

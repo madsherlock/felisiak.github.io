@@ -25,7 +25,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 19,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -97,13 +98,13 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "48px",
-              "text-align": "right"
+              "font-size": "30px",
+              "text-align": "left"
             }
           }
         },
@@ -135,7 +136,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/blomst-3-781x781.png",
+              "src": "@PROJECT_PATH@/assets/images/blomst2-1-800x679.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -165,13 +166,13 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "36px",
-              "text-align": "right"
+              "font-size": "30px",
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box4-i"
@@ -239,7 +240,7 @@
             ".mbr-section-title": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "48px",
+              "font-size": "30px",
               "text-align": "left"
             }
           },
