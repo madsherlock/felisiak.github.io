@@ -116,9 +116,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "5",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "11",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -154,7 +154,7 @@
             }
           },
           "title": "Gavekoordinator Tove Svendsen",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Ring / sms på +4522776474</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Ring / sms på <a href=\"sms:+4522776474\" class=\"text-black\">+4522776474</a></span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
