@@ -2001,7 +2001,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/stiksav-717x570.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stiksav-717x570.png",
               "link": "",
               "alt": "",
               "title": ""
