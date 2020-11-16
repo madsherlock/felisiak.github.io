@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Felisiak",
-    "currentPage": "index.html",
+    "currentPage": "mikael.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 97,
+    "uniqCompNum": 98,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
@@ -1546,7 +1546,17 @@
         "order": 3,
         "meta_descr": ""
       },
-      "components": []
+      "components": [
+        {
+          "text": "<p>Bahco nylon/gummihammer</p><p>\n</p><p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">\n</a></p><p>Vinyl: Gorillaz - Song Machine, Season One: Strange Timez\n</p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p"
+        }
+      ]
     }
   }
 }
