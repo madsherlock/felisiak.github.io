@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Felisiak",
-    "currentPage": "mikael.html",
+    "currentPage": "ønsker.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -143,7 +143,7 @@
           },
           "title": "<b>Ønsker</b>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"lena.html\" data-toolbar=\"-mbrBtnMove\">Lenas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"mikael.html\" data-toolbar=\"-mbrBtnMove\">Mikaels</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"ønsker.html#content5-1v\" data-toolbar=\"-mbrBtnMove\">Fælles</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://madserver.dk/%C3%B8nsker/oensker.htm\" data-toolbar=\"-mbrBtnMove\">Lenas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"mikael.html\" data-toolbar=\"-mbrBtnMove\">Mikaels</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"ønsker.html#content5-1v\" data-toolbar=\"-mbrBtnMove\">Fælles</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1548,7 +1548,7 @@
       },
       "components": [
         {
-          "text": "<p>Bahco nylon/gummihammer</p><p>\n</p><p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">\n</a></p><p>Vinyl: Gorillaz - Song Machine, Season One: Strange Timez\n</p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p><br></p>",
+          "text": "<p>Bahco nylon/gummihammer</p><p>\n</p><p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">\n</a></p><p>Vinyl: Gorillaz - Song Machine, Season One: Strange Timez\n</p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p>Champagnesabel</p><p>Vinyl: Nick Cave - Idiot Prayer: Nick Cave Alone at Alexandra Palace</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
