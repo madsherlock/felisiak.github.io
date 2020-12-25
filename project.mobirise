@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Felisiak",
-    "currentPage": "mikael.html",
+    "currentPage": "ønsker.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -183,105 +183,6 @@
           ],
           "_name": "content5",
           "_anchor": "content5-1v"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "18",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ingvard-1000x1000.png",
-              "link": "https://ingvardchristensen.dk/produkt/gavekort/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<a href=\"https://ingvardchristensen.dk/produkt/gavekort/\" target=\"_blank\" class=\"text-black\">Gavekort til Ingvard Christensen</a>",
-          "text": "<p>Til køb af ovenstående stole.<br>Stolene er det vi ønsker os allermest, og noget som holder resten af livet, og vi ville blive meget glade for ethvert tilskud!</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "30px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box4-1y"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showCaption": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffecd8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "",
-          "caption": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1z"
         },
         {
           "_inherit": "msg-box5",
@@ -844,104 +745,6 @@
             }
           },
           "_anchor": "msg-box4-2i"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showCaption": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffecd8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "",
-          "caption": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2b"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "18",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bur-1400x934.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Et nyt marsvinebur uden tremmer",
-          "text": "<p><b><a href=\"https://www.voliere.dk/produkt/lux-marsvin-bur-mellem/\" target=\"_blank\" class=\"text-black\">Dette&nbsp;(link)</a>&nbsp;</b>i 124x54x54 fra Randers Volieren</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "30px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box4-2c"
         },
         {
           "_params": {
@@ -1548,7 +1351,7 @@
       },
       "components": [
         {
-          "text": "<p>Bahco nylon/gummihammer</p><p>\n</p><p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">\n</a></p><p>Vinyl: Gorillaz - Song Machine, Season One: Strange Timez\n</p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p>Champagnesabel</p><p>Vinyl: Nick Cave - Idiot Prayer: Nick Cave Alone at Alexandra Palace</p><p>Fotobog: Noriaki Yokosuka - Shafts (1972)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; aka Eizo do Gendai no. 9</p><p>Vinyl: Till Brönner &amp; Dieter Ilg - Nightfall</p><p>Hedekaffe økologiske hele bønner fra Peru eller Mexico</p>",
+          "text": "<p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a><br></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p>Champagnesabel</p><p><span style=\"font-size: 1.25rem;\">Fotobog: Noriaki Yokosuka - Shafts (1972)&nbsp; &nbsp;aka Eizo no Gendai no. 9</span><br></p><p>Vinyl: Till Brönner &amp; Dieter Ilg - Nightfall</p><p>Hedekaffe økologiske hele bønner fra Peru eller Mexico</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
