@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Felisiak",
-    "currentPage": "ønsker.html",
+    "currentPage": "mikael.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 98,
+    "uniqCompNum": 99,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
@@ -116,7 +116,7 @@
     "ønsker.html": {
       "settings": {
         "title": "Ønsker",
-        "order": 1,
+        "order": 2,
         "meta_descr": ""
       },
       "components": [
@@ -1339,19 +1339,19 @@
     "lena.html": {
       "settings": {
         "title": "Lenas ønsker",
-        "order": 2
+        "order": 3
       },
       "components": []
     },
     "mikael.html": {
       "settings": {
         "title": "Mikaels ønsker",
-        "order": 3,
+        "order": 4,
         "meta_descr": ""
       },
       "components": [
         {
-          "text": "<p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a><br></p><p>\n</p><p><a href=\"https://www.dba.dk/tele-olympus-75mm-f18/id-1073155710/\" class=\"text-primary\" target=\"_blank\">Olympus M.Zuiko Digital 75mm F1.8 objektiv (ca. 3700,- brugt)</a></p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits (tilgængelig 4. december)\n</p><p>\n</p><p>Champagnesabel</p><p><span style=\"font-size: 1.25rem;\">Fotobog: Noriaki Yokosuka - Shafts (1972)&nbsp; &nbsp;aka Eizo no Gendai no. 9</span><br></p><p>Vinyl: Till Brönner &amp; Dieter Ilg - Nightfall</p><p>Hedekaffe økologiske hele bønner fra Peru eller Mexico</p>",
+          "text": "<p><a href=\"https://www.dba.dk/prime-olympus-17mm-f18/id-1073121280/\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">Olympus M.Zuiko Digital 17mm F1.8 objektiv (ca. 1800,- brugt)</a><br></p><p>\n</p><p>Vinyl: The White Stripes - Greatest Hits</p><p><span style=\"font-size: 1.25rem;\">Fotobog: Noriaki Yokosuka - Shafts (1972)&nbsp; &nbsp;aka Eizo no Gendai no. 9</span><br></p><p>Vinyl: Till Brönner &amp; Dieter Ilg - Nightfall</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
