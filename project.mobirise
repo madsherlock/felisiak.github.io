@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "mikael.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -55,7 +55,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-blank-pages2-128x116.png",
@@ -1274,7 +1274,7 @@
         }
       ]
     },
-    "page1.html": {
+    "ønsker.html": {
       "settings": {
         "title": "Ønsker",
         "order": 2
@@ -1306,12 +1306,30 @@
         }
       ]
     },
-    "page2.html": {
+    "mikael.html": {
       "settings": {
         "title": "Mikaels ønsker",
         "order": 1
       },
-      "components": []
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><br>Fotobog: Noriaki Yokosuka - Shafts (1972) aka Eizo no Gendai no. 9 \n<br>\n<br>Bukser: Knowledge Cotton Apparel - Chuck The Brain Chino str. 34/34 farve Tuffet (479,40)\n<br>\n<br>Ur: Holzkern Hundertwasser (Koa/Marmor) (1999,-)\n<br>\n<br>Ur: Holzkern Christer (Marmor/Mørkegrå) (1479,-)\n<br>\n<br>Ur: Holzkern Castello (Koa/Sodalit) (1929,-)\n<br>\n<br>Ur: Junkers 9.08.01.05 (1500,-)\n<br>\n<br>Hovedtelefoner: Sennheiser HD600 (ca. 2200,-)\n<br>\n<br>TV: Samsung The Frame 50\", 2021-modellen&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sWFSBqRerF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content5-m"
+        }
+      ]
     }
   }
 }
