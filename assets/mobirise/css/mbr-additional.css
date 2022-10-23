@@ -923,47 +923,6 @@ a {
 .cid-tjqBVp7FQ9 .mbr-section-btn {
   text-align: left;
 }
-.cid-tjqzl9BQAx {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #f2d8be;
-}
-.cid-tjqzl9BQAx .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-tjqzl9BQAx .currentcost {
-  color: #232323;
-}
-.cid-tjqzl9BQAx .card-wrapper {
-  border-radius: 4px;
-  background: #b4c2dd;
-}
-@media (min-width: 992px) {
-  .cid-tjqzl9BQAx .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tjqzl9BQAx .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tjqzl9BQAx .text-box {
-    padding: 1rem;
-  }
-}
-.cid-tjqzl9BQAx .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tjqzl9BQAx .mbr-text,
-.cid-tjqzl9BQAx .cost,
-.cid-tjqzl9BQAx .mbr-section-btn {
-  text-align: left;
-}
 .cid-tjqzLPlqTE {
   padding-top: 2rem;
   padding-bottom: 2rem;
