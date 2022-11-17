@@ -1587,6 +1587,42 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-tntNxGZCXo {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #cdab89;
+}
+.cid-tntNxGZCXo .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tntNxGZCXo .currentcost {
+  color: #232323;
+}
+.cid-tntNxGZCXo .card-wrapper {
+  border-radius: 4px;
+  background: #b4c2dd;
+}
+@media (min-width: 992px) {
+  .cid-tntNxGZCXo .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tntNxGZCXo .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tntNxGZCXo .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tntNxGZCXo .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sWGn36eKHE {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1668,76 +1704,4 @@ a {
 .cid-sWGoaEfRbs .mbr-text,
 .cid-sWGoaEfRbs .mbr-section-btn {
   color: #534230;
-}
-.cid-sWGoc12oWi {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
-  background-color: #cdab89;
-}
-.cid-sWGoc12oWi .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-sWGoc12oWi .currentcost {
-  color: #232323;
-}
-.cid-sWGoc12oWi .card-wrapper {
-  border-radius: 4px;
-  background: #b4c2dd;
-}
-@media (min-width: 992px) {
-  .cid-sWGoc12oWi .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sWGoc12oWi .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sWGoc12oWi .text-box {
-    padding: 1rem;
-  }
-}
-.cid-sWGoc12oWi .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-sWGocCnNBa {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #cdab89;
-}
-.cid-sWGocCnNBa .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-sWGocCnNBa .currentcost {
-  color: #232323;
-}
-.cid-sWGocCnNBa .card-wrapper {
-  border-radius: 4px;
-  background: #b4c2dd;
-}
-@media (min-width: 992px) {
-  .cid-sWGocCnNBa .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sWGocCnNBa .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sWGocCnNBa .text-box {
-    padding: 1rem;
-  }
-}
-.cid-sWGocCnNBa .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
 }
