@@ -969,6 +969,42 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-tPXepsKPjo {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #f2d8be;
+}
+.cid-tPXepsKPjo .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tPXepsKPjo .currentcost {
+  color: #232323;
+}
+.cid-tPXepsKPjo .card-wrapper {
+  border-radius: 4px;
+  background: #b4c2dd;
+}
+@media (min-width: 992px) {
+  .cid-tPXepsKPjo .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tPXepsKPjo .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tPXepsKPjo .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tPXepsKPjo .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sWFLN4Bc60 {
   background-image: url("../../../assets/images/lenamikael-237-2000x1333.jpg");
 }
