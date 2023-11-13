@@ -56,7 +56,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-blank-pages2-128x116.png",
@@ -530,6 +530,67 @@
           "_anchor": "features7-32",
           "_isUserblock": true,
           "_cid": "tPXepsKPjo",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".oldcost": {
+              "text-decoration": "line-through",
+              "color": "#353535"
+            },
+            ".currentcost": {
+              "color": "#232323"
+            },
+            ".card-wrapper": {
+              "border-radius": "4px",
+              "background": "@cardsBg"
+            },
+            "@media (min-width: 992px)": {
+              ".text-box": {
+                "padding": "2rem",
+                "padding-right": "4rem",
+                "& when (@reverseContent)": {
+                  "padding-left": "4rem",
+                  "padding-right": "2rem"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".text-box": {
+                "padding": "2rem"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".text-box": {
+                "padding": "1rem"
+              }
+            },
+            ".image-wrapper img": {
+              "width": "100%",
+              "object-fit": "cover"
+            },
+            ".mbr-text, .cost, .mbr-section-btn": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features7",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"features6\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Cost\" name=\"showCost\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Color\" name=\"cardsBg\" value=\"#b4c2dd\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#f2d8be\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#bed3f9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid' : fullWidth}\">\n        <div class=\"card-wrapper\">\n            <div class=\"row align-items-center\" mbr-class=\"{'flex-row-reverse' : reverseContent}\">\n                <div class=\"col-12 col-lg-{{imageWidth}}\">\n                    <div class=\"image-wrapper\">\n                        <a href=\"https://www.pricerunner.dk/pl/613-4341839/Braetspil/Educa-My-First-Vildkatten-36-Sammenlign-Priser\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/581388fa-b4f7-4514-b1ed-71937920d16e-464x464.jpg\" alt=\"Billede\"></a>\n                    </div>\n                </div>\n                <div class=\"col-12 col-lg\">\n                    <div class=\"text-box\">\n                        <h5 class=\"mbr-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                            <b>Brætspil</b></h5>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .cost, .mbr-section-btn\"><a href=\"https://www.pricerunner.dk/pl/613-4341839/Braetspil/Educa-My-First-Vildkatten-36-Sammenlign-Priser\" class=\"text-primary\" target=\"_blank\">Educa My First Vildkatten</a></p>\n                        <div class=\"cost\" mbr-if=\"showCost\">\n                            <span mbr-text mbr-theme-style=\"display-2\" class=\"currentcost mbr-fonts-style pr-2\" data-app-selector=\".currentcost\">$69</span>\n                            <span mbr-text mbr-theme-style=\"display-2\" class=\"oldcost mbr-fonts-style\" data-app-selector=\".oldcost\">$89</span>\n                        </div>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn pt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://www.parcellet.dk/shop/joha-heldragt-uld-silke-navy-11101p.html\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" target=\"_blank\">Heldragt</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features7-36",
+          "_isUserblock": true,
+          "_cid": "tVwqDNleKP",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
